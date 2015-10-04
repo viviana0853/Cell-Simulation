@@ -1,5 +1,5 @@
 import solutions
-import drawSVGGraph
+
 
 # Initilise Solution
 solution_metabolites = solutions.default_metabolites
